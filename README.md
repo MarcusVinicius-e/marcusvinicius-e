@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do Marcus vinicius! 😁
 
+### Desnvolverdor | Frontend  
  <div>
    <a href="https://github.com/marcusvinicius-e">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcusvinicius-e&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
